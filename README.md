@@ -17,7 +17,7 @@ EXAMPLE
 
      Bwap-B-ANLN-SAVIES-122222-48 Bwap
      
-       Bwap: The four-character shorthand name for the sophont, underscore-filled if necessary.
+       Bwap: The four-character abbreviation for the sophont.
           B: Its body symmetry, e.g. (B)ilateral (T)rilateral (R)adial (A)symmetric.
        ANLN: Its limb groups (arms, legs, wings, etc).
      SAVIES: Its characteristics (in this case, Str Agl Vig Int Edu Soc).
