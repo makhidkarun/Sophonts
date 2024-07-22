@@ -1,5 +1,5 @@
 # Sophonts
-Traveller sophonts, scripts, and resources stored here, by Quick NIL Profile.
+Traveller sophonts, scripts, and resources stored here, by ruleset and Quick NIL Profile.
 By using the QNP, each sophont gets its own directory, in which to store various resources, such as
 
 * chargen
